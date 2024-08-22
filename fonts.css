@@ -1,0 +1,26 @@
+
+/* font-family:Anton */
+@font-face {
+    font-family: Anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf);
+}
+/* font-family:Josefin_sans */
+@font-face {
+    font-family: Josefin_sans;
+    src: url(../fonts/Josefin_sans/Josefin_sans-Regular.ttf);
+}
+/* font-family:Lexenda_Deca */
+@font-face {
+    font-family: Lexenda_Deca;
+    src: url(../fonts/Lexenda_Deca/Lexenda_Deca-Regular.ttf);
+}
+/* font-family:Livvic */
+@font-face {
+    font-family: Livvic;
+    src: url(../fonts/Livvic/Livvic-Regular.ttf);
+}
+/* font-family:New_Amsterdam */
+@font-face {
+    font-family: New_Amsterdam ;
+    src: url(../fonts/New_Amsterdam /New_Amsterdam -Regular.ttf);
+}
